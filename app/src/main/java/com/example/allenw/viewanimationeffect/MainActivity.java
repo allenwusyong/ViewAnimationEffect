@@ -44,7 +44,7 @@ private ImageView imageView;
         }
 
     }
-
+//minor change
     private void doAlpha(ImageView imge) {
         imge.setImageResource(R.drawable.combanana);
         imge.clearAnimation();
